@@ -1,0 +1,10 @@
+name = "Salmon Quick Release Buckle";
+picture = "Salmon_qrb\data\salmon_qrb.paa";
+logo = "Salmon_qrb\data\salmon_qrb_64.paa"; 
+logoOver = "Salmon_qrb\data\salmon_qrb_64.paa"; 
+tooltip = "Salmon Quick Release Buckle"; 
+actionName = "Salmon";
+action = "http://TacSalmon.me";
+author= "Green";
+description = "Adds quick release buckles to backpacks";
+overview = "Allows you to bind a key to quickly drop a backpack in hectic situations<br />INFO:<br />Made for TacSalmon ArmA group<br />TacSalmon.me (Steam Group)<br />unit.TacSalmon.me (Unit Page)<br />ts.TacSalmon.me (Teamspeak)<br />d.TacSalmon.me (Discord)";
