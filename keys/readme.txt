@@ -1,0 +1,1 @@
+The TacSalmon key is only used in immersion oriented client side mods using CBA and ACE3
